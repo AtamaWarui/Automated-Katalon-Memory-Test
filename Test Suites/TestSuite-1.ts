@@ -24,6 +24,30 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/AddNewUser-TestCase-Bis</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da90a320-07f7-4b1d-8131-9abb41956fab</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c11876a-8a83-4f78-8ab6-369a38d6ac6b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>06574109-5ae3-45d7-84cb-337615f58ce0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bfce8bbe-b996-45f3-b0e6-9f6bf794b65d</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>412e1be9-be33-4837-8914-ef59edd5af94</guid>
