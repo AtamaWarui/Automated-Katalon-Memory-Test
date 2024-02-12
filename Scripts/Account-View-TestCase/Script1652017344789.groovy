@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://nk-gke-test.gcp.workmap.ai/#/signIn')
 
-WebUI.setText(findTestObject('Object Repository/Page_Workmap/input_Sign in_normal_login_username'), 'pankajunk@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Workmap/input_Sign in_normal_login_username'), '')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Workmap/input_Sign in_normal_login_password'), 'Piu45nT0PQ8=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Workmap/input_Sign in_normal_login_password'), '')
 
 WebUI.click(findTestObject('Object Repository/Page_Workmap/button_Log in'))
 
